@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @felyin! I am currently a 3rd year student at UBC in the Cognitive Systems - Brain and Cognition program! 
-- 👀 I’m interested in human-computer interactions, UX and UI design.
-- 🌱 I’m currently learning SQL and R.
+- 👋 Hi, I’m @felyin! I am currently a 5th year student at UBC in the Cognitive Systems - Brain and Cognition program! 
+- 👀 I'm interested in the field of UX Research and topics such of Healthcare and Accessibility
+- 🌱 I’m currently learning SQL and R!
 - 📫 You can reach me at felyin@student.ubc.ca
